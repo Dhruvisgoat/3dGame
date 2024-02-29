@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/3dGame/static/css/main.d972a963.css",
+    "main.js": "/3dGame/static/js/main.ca93d87a.js",
+    "static/media/dancing_dhruv.mp4": "/3dGame/static/media/dancing_dhruv.6341c1464ed6b7336564.mp4",
+    "static/media/dirt.jpg": "/3dGame/static/media/dirt.59ed32793c180834b389.jpg",
+    "static/media/grass.jpg": "/3dGame/static/media/grass.eb5fc8ebf9c7a590fb39.jpg",
+    "index.html": "/3dGame/index.html",
+    "main.d972a963.css.map": "/3dGame/static/css/main.d972a963.css.map",
+    "main.ca93d87a.js.map": "/3dGame/static/js/main.ca93d87a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d972a963.css",
+    "static/js/main.ca93d87a.js"
+  ]
+}
