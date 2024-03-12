@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.9fda5b89.css",
-    "main.js": "/react-gh-pages/static/js/main.41b67efb.js",
-    "static/media/videoplayback.mp4": "/react-gh-pages/static/media/videoplayback.ba716c10b33d844560fa.mp4",
-    "static/media/dirt.jpg": "/react-gh-pages/static/media/dirt.59ed32793c180834b389.jpg",
-    "static/media/grass.jpg": "/react-gh-pages/static/media/grass.eb5fc8ebf9c7a590fb39.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.9fda5b89.css.map": "/react-gh-pages/static/css/main.9fda5b89.css.map",
-    "main.41b67efb.js.map": "/react-gh-pages/static/js/main.41b67efb.js.map"
+    "main.css": "/deploy3dGAME12-03/static/css/main.9fda5b89.css",
+    "main.js": "/deploy3dGAME12-03/static/js/main.6d7883f2.js",
+    "static/media/videoplayback.mp4": "/deploy3dGAME12-03/static/media/videoplayback.ba716c10b33d844560fa.mp4",
+    "static/media/dirt.jpg": "/deploy3dGAME12-03/static/media/dirt.59ed32793c180834b389.jpg",
+    "static/media/grass.jpg": "/deploy3dGAME12-03/static/media/grass.eb5fc8ebf9c7a590fb39.jpg",
+    "index.html": "/deploy3dGAME12-03/index.html",
+    "main.9fda5b89.css.map": "/deploy3dGAME12-03/static/css/main.9fda5b89.css.map",
+    "main.6d7883f2.js.map": "/deploy3dGAME12-03/static/js/main.6d7883f2.js.map"
   },
   "entrypoints": [
     "static/css/main.9fda5b89.css",
-    "static/js/main.41b67efb.js"
+    "static/js/main.6d7883f2.js"
   ]
 }
